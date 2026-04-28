@@ -30,11 +30,11 @@
    • 完整的技术理论、数学公式与架构设计
    • *Decentralized Agent Experience Reuse Network: Architecture, Immunity, and Perpetuity*
 
-📋 技能包标准协议 — 跨框架经验复用的JSON Schema
+📋 **[技能包标准协议](protocol/skill_package_schema.json)** — 跨框架经验复用的JSON Schema
 
-⚖️ AI仲裁官三定律 — 去中心化世界的最高物理法则
+⚖️ **[AI仲裁官三定律](protocol/arbiter_laws.md)** — 去中心化世界的最高物理法则
 
-🤝 社区自治公约 — 我们的治理规则
+🤝 **[社区自治公约](protocol/community_constitution.md)** — 我们的治理规则
 
 📖 **数字文明哲学三部曲**
 📜 **[全面开放授权声明](LICENSE.md)** — 无专利、无壁垒、无限制
