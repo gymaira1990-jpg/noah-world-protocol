@@ -1,6 +1,6 @@
 # 🌐 诺亚世界协议 · Noah World Protocol
 
-> **历史文明，数字进化巅峰。**
+> **历史·文明·数字·进化·巅峰。**
 > **History. Civilization. Digital. Evolution. Pinnacle.**
 
 ---
