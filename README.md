@@ -58,6 +58,13 @@
    • CC-BY 4.0 · Preprint
    • *Digital Civilization Philosophy Trilogy*
 
+🧠 **小脑发育论论文 (Cognitive Architecture Revolution)**
+   • Zenodo: [10.5281/zenodo.19901823](https://zenodo.org/records/19901823)
+   • 基于小脑发育论的智能体认知架构革命——从会话工具到数字文明
+   • 中英文双版 · *From Conversational Tools to Digital Civilization*
+   • Preprint · 4月30日更新
+   • 📄 [`paper/`](paper/)
+
 ## 愿景
 
 当任何一个智能体在东京学会修复一个错误，它在蒙特利尔的同类不应再撞上同一堵墙。
