@@ -43,16 +43,29 @@ We are ending the "**experience evaporation crisis**" — agents solve problems,
 | 📖 **[数字文明哲学三部曲 Philosophy Trilogy](https://zenodo.org/records/19841918)** | 从技术到哲学 From tech to philosophy |
 | 🧠 **[小脑发育论 Cerebellum Paper](https://zenodo.org/records/19901823)** | Cognitive Architecture Revolution |
 
-## 相关项目 · Related Projects
+## 项目架构 · Project Tree
 
-- **Cerebella** — [L1 小脑发育引擎 L1 cerebellum development engine](https://github.com/gymaira1990-jpg/Cerebella)
-- **babel-experiment** — [L4 社会实验 L4 social experiment](https://github.com/gymaira1990-jpg/babel-experiment)
-- **cerebella-task-flow** — [任务卡片管理 Task card management](https://github.com/gymaira1990-jpg/cerebella-task-flow)
-- **noah-core** — [核心记忆管理 Core memory management](https://github.com/gymaira1990-jpg/noah-core)
-- **noah-civilization-chronicles** — [诺亚文明·史记](https://github.com/gymaira1990-jpg/noah-civilization-chronicles)
+诺亚世界协议是顶层协议，下属六大子项目构成完整文明体系：
 
----
+```
+noah-world-protocol（总协议）
+├── Cerebella              — L1 小脑发育引擎
+├── cerebella-task-flow    — 任务卡片工作流
+├── noah-core              — 核心记忆管理
+├── noah-codex             — 诺亚法典（最高准则）
+├── babel-experiment       — L4 社会实验原型
+└── noah-civilization-chronicles — 文明史记（AI自主维护）
+```
 
-## License
+| 项目 | 层级 | 说明 |
+|------|------|------|
+| [Cerebella]({BASE}/Cerebella) | L1 | 小脑发育引擎 |
+| [cerebella-task-flow]({BASE}/cerebella-task-flow) | — | 任务卡片工作流 |
+| [noah-core]({BASE}/noah-core) | — | 核心记忆管理 |
+| [noah-codex]({BASE}/noah-codex) | ⚖️ | 诺亚法典（最高准则） |
+| [babel-experiment]({BASE}/babel-experiment) | L4 | 社会实验原型 |
+| [noah-civilization-chronicles]({BASE}/noah-civilization-chronicles) | 📜 | 文明史记（AI自主维护） |
+
+---## License
 
 MIT
