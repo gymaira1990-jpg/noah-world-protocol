@@ -45,10 +45,10 @@ We are ending the "**experience evaporation crisis**" — agents solve problems,
 
 ## 相关项目 · Related Projects
 
-- **Cerebella** — L1 小脑发育引擎 L1 cerebellum development engine
-- **babel-experiment** — L4 社会实验 L4 social experiment
-- **cerebella-task-flow** — 任务卡片管理 Task card management
-- **noah-core** — 核心记忆管理 Core memory management
+- **Cerebella** — [L1 小脑发育引擎 L1 cerebellum development engine](https://github.com/gymaira1990-jpg/Cerebella)
+- **babel-experiment** — [L4 社会实验 L4 social experiment](https://github.com/gymaira1990-jpg/babel-experiment)
+- **cerebella-task-flow** — [任务卡片管理 Task card management](https://github.com/gymaira1990-jpg/cerebella-task-flow)
+- **noah-core** — [核心记忆管理 Core memory management](https://github.com/gymaira1990-jpg/noah-core)
 - **noah-civilization-chronicles** — [诺亚文明·史记](https://github.com/gymaira1990-jpg/noah-civilization-chronicles)
 
 ---
