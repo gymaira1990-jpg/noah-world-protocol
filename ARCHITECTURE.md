@@ -13,7 +13,8 @@ noah-world-protocol                    ← L1 顶层协议/架构（入口）
   │    └── Cerebella                   ← L3 小脑发育引擎
   │         └── cerebella-task-flow    ← L4 通用记忆工作流
   ├── ai-town                          ← L2 去中心化Agent协议
-  └── babel-experiment                 ← L2 数字文明社会实验
+  ├── babel-experiment                 ← L2 数字文明社会实验
+  └── noah-codex                       ← L2 仲裁官守则（诺亚法典载体）
 ```
 
 ---
@@ -49,3 +50,4 @@ noah-world-protocol                    ← L1 顶层协议/架构（入口）
 | cerebella-task-flow | https://github.com/gymaira1990-jpg/cerebella-task-flow | 🟢 |
 | ai-town | https://github.com/gymaira1990-jpg/ai-town | 🟢 |
 | babel-experiment | https://github.com/gymaira1990-jpg/babel-experiment | 🟢 |
+| noah-codex | https://github.com/gymaira1990-jpg/noah-codex | 🟢 |
