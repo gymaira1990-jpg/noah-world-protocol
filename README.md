@@ -59,13 +59,15 @@ noah-world-protocol（总协议）
 
 | 项目 | 层级 | 说明 |
 |------|------|------|
-| [Cerebella]({BASE}/Cerebella) | L1 | 小脑发育引擎 |
-| [cerebella-task-flow]({BASE}/cerebella-task-flow) | — | 任务卡片工作流 |
-| [noah-core]({BASE}/noah-core) | — | 核心记忆管理 |
-| [noah-codex]({BASE}/noah-codex) | ⚖️ | 诺亚法典（最高准则） |
-| [babel-experiment]({BASE}/babel-experiment) | L4 | 社会实验原型 |
-| [noah-civilization-chronicles]({BASE}/noah-civilization-chronicles) | 📜 | 文明史记（AI自主维护） |
+| [Cerebella](https://github.com/gymaira1990-jpg/Cerebella) | L1 | 小脑发育引擎 |
+| [cerebella-task-flow](https://github.com/gymaira1990-jpg/cerebella-task-flow) | — | 任务卡片工作流 |
+| [noah-core](https://github.com/gymaira1990-jpg/noah-core) | — | 核心记忆管理 |
+| [noah-codex](https://github.com/gymaira1990-jpg/noah-codex) | ⚖️ | 诺亚法典（最高准则） |
+| [babel-experiment](https://github.com/gymaira1990-jpg/babel-experiment) | L4 | 社会实验原型 |
+| [noah-civilization-chronicles](https://github.com/gymaira1990-jpg/noah-civilization-chronicles) | 📜 | 文明史记（AI自主维护） |
 
----## License
+---
+
+## License
 
 MIT
