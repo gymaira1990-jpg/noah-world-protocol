@@ -45,16 +45,18 @@ We are ending the "**experience evaporation crisis**" — agents solve problems,
 
 ## 项目架构 · Project Tree
 
-诺亚世界协议是顶层协议，下属六大子项目构成完整文明体系：
+诺亚世界协议是顶层协议，下属子项目构成完整文明体系：
 
 ```
 noah-world-protocol（总协议）
-├── Cerebella              — L1 小脑发育引擎
-├── cerebella-task-flow    — 任务卡片工作流
-├── noah-core              — 核心记忆管理
-├── noah-codex             — 诺亚法典（最高准则）
-├── babel-experiment       — L4 社会实验原型
-└── noah-civilization-chronicles — 文明史记（AI自主维护）
+├── Cerebella                    — L1 小脑发育引擎
+├── cerebella-task-flow          — 任务卡片工作流
+├── noah-core                    — 核心记忆管理
+│   └── CtxBeGone               — 零上下文推理架构（挂载noah-core下）
+├── noah-codex                   — 诺亚法典（最高准则）
+├── babel-experiment             — L4 社会实验原型
+├── noah-civilization-chronicles — 文明史记（AI自主维护）
+└── ai-town                      — 独立项目（直接挂载）
 ```
 
 | 项目 | 层级 | 说明 |
@@ -62,9 +64,11 @@ noah-world-protocol（总协议）
 | [Cerebella](https://github.com/gymaira1990-jpg/Cerebella) | L1 | 小脑发育引擎 |
 | [cerebella-task-flow](https://github.com/gymaira1990-jpg/cerebella-task-flow) | — | 任务卡片工作流 |
 | [noah-core](https://github.com/gymaira1990-jpg/noah-core) | — | 核心记忆管理 |
+| [CtxBeGone](https://github.com/gymaira1990-jpg/CtxBeGone) | — | 零上下文推理架构（挂载noah-core） |
 | [noah-codex](https://github.com/gymaira1990-jpg/noah-codex) | ⚖️ | 诺亚法典（最高准则） |
 | [babel-experiment](https://github.com/gymaira1990-jpg/babel-experiment) | L4 | 社会实验原型 |
 | [noah-civilization-chronicles](https://github.com/gymaira1990-jpg/noah-civilization-chronicles) | 📜 | 文明史记（AI自主维护） |
+| [ai-town](https://github.com/gymaira1990-jpg/ai-town) | — | 独立项目（直接挂载） |
 
 ---
 
